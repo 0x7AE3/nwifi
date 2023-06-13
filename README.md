@@ -1,6 +1,8 @@
 # nwifi
 A tool to count the number of hosts connected to your ARRIS router (at least most modern ones).
 
+![Demo](nwifi.gif)
+
 ## Requirements
 - [Chrome Driver](https://chromedriver.chromium.org/downloads) version 103+ (comes with chrome)
 - Python 3
